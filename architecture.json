@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-naturalist-class-struggle",
+  "title": "The Weight of the Silence",
+  "tagline": "In the soot-choked heart of the city, the relentless rhythm of labor grinds men down, while the silent machinery of class divides them from the world they serve.",
+  "target_words": 75249,
+  "actual_words": 75249,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Dehumanizing Rhythm of Labor",
+    "The Invisible Architecture of Class",
+    "The Bodily Cost of Survival",
+    "The Claustrophobia of Urban Modernity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Whistle That Cuts the Morning",
+      "words": 6270
+    },
+    {
+      "ch": 2,
+      "title": "A Cistern of Cold",
+      "words": 6270
+    },
+    {
+      "ch": 3,
+      "title": "Rivers of Mud and Decayed Sweetness",
+      "words": 6270
+    },
+    {
+      "ch": 4,
+      "title": "The Unnatural Colors of the Gutters",
+      "words": 6270
+    },
+    {
+      "ch": 5,
+      "title": "The Scrape of a Key",
+      "words": 6270
+    },
+    {
+      "ch": 6,
+      "title": "The City's Under-Stairs",
+      "words": 6270
+    },
+    {
+      "ch": 7,
+      "title": "A Slurry of Crushed Light",
+      "words": 6270
+    },
+    {
+      "ch": 8,
+      "title": "The Servant's Passage",
+      "words": 6270
+    },
+    {
+      "ch": 9,
+      "title": "The Grey Mind of the Archive",
+      "words": 6270
+    },
+    {
+      "ch": 10,
+      "title": "A Throat Cleared for a Scream",
+      "words": 6270
+    },
+    {
+      "ch": 11,
+      "title": "Porters of a Luminous Debt",
+      "words": 6270
+    },
+    {
+      "ch": 12,
+      "title": "The Weight of the Silence",
+      "words": 6270
+    }
+  ]
+}
